@@ -194,7 +194,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     )}
                   >
                     {
-                      "Press the big blue + button to insert components like Tables, Text, Buttons, and Forms.\n\nJoin our Slack Community (icon in bottom left) for help!"
+                      "This is a testing application where I am trying to see what issues it could have."
                     }
                   </div>
                 </section>
